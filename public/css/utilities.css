@@ -1,0 +1,41 @@
+/* utilities class */
+
+.container{
+    width: 100%;
+    padding: 0px 16px;
+}
+
+
+.btn {
+    padding: 0.7rem 32px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-ungu {
+    width: 100%;
+    border: 0.5rem #0A1D56;
+    border-radius: 0.5rem;
+    background-color: #0E204E;
+    color: white;
+}
+
+.btn-ungu:hover {
+    background-color: #0c38c9;
+    width: 100%;
+}
+
+.btn-white {
+    width: 100%;
+    border: 0.5rem white;
+    border-radius: 0.5rem;
+    background-color: white;
+    color: black;
+}
+
+.btn-white:hover {
+    background-color: #0c38c9;
+    width: 100%;
+}
+
+/* end utilities class */
